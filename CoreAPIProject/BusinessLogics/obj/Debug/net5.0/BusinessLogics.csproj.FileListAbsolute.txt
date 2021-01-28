@@ -1,0 +1,12 @@
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\bin\Debug\net5.0\BusinessLogics.deps.json
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\bin\Debug\net5.0\BusinessLogics.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\bin\Debug\net5.0\ref\BusinessLogics.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\bin\Debug\net5.0\BusinessLogics.pdb
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.AssemblyInfoInputs.cache
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.AssemblyInfo.cs
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.csproj.CoreCompileInputs.cache
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\ref\BusinessLogics.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.pdb
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\BusinessLogics\obj\Debug\net5.0\BusinessLogics.csprojAssemblyReference.cache

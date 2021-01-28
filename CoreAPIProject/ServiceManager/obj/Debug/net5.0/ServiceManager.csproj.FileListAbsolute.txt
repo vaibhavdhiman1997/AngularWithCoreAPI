@@ -1,0 +1,12 @@
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\bin\Debug\net5.0\ServiceManager.deps.json
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\bin\Debug\net5.0\ServiceManager.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\bin\Debug\net5.0\ref\ServiceManager.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\bin\Debug\net5.0\ServiceManager.pdb
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.csprojAssemblyReference.cache
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.AssemblyInfoInputs.cache
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.AssemblyInfo.cs
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.csproj.CoreCompileInputs.cache
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ref\ServiceManager.dll
+E:\Angular With .Net API\New folder\APIProject\AngularWithAPI\ServiceManager\obj\Debug\net5.0\ServiceManager.pdb
